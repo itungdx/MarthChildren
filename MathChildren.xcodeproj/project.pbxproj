@@ -12,6 +12,19 @@
 		A61787D51EE7BC4C00C6F6EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A61787D31EE7BC4C00C6F6EB /* Main.storyboard */; };
 		A61787D71EE7BC4C00C6F6EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A61787D61EE7BC4C00C6F6EB /* Assets.xcassets */; };
 		A61787DA1EE7BC4C00C6F6EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A61787D81EE7BC4C00C6F6EB /* LaunchScreen.storyboard */; };
+		A61787E81EE7DD8000C6F6EB /* signboard_Caculation.png in Resources */ = {isa = PBXBuildFile; fileRef = A61787E71EE7DD8000C6F6EB /* signboard_Caculation.png */; };
+		A61787EE1EE7E0C400C6F6EB /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A61787ED1EE7E0C400C6F6EB /* Background.jpg */; };
+		A63A463A1EE801820014C09A /* signboard_Score.png in Resources */ = {isa = PBXBuildFile; fileRef = A63A46381EE801820014C09A /* signboard_Score.png */; };
+		A63A463B1EE801820014C09A /* signboard_Result.png in Resources */ = {isa = PBXBuildFile; fileRef = A63A46391EE801820014C09A /* signboard_Result.png */; };
+		A657D4211EF3990300E05529 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A657D4201EF3990300E05529 /* logo.png */; };
+		A657D4271EF3A0FA00E05529 /* Background_Home.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A657D4261EF3A0FA00E05529 /* Background_Home.jpg */; };
+		A657D42B1EF3A42F00E05529 /* btn_Close.png in Resources */ = {isa = PBXBuildFile; fileRef = A657D42A1EF3A42F00E05529 /* btn_Close.png */; };
+		A657D42D1EF3A44300E05529 /* btn_Info.png in Resources */ = {isa = PBXBuildFile; fileRef = A657D42C1EF3A44300E05529 /* btn_Info.png */; };
+		A657D42F1EF3A45000E05529 /* btn_Setting.png in Resources */ = {isa = PBXBuildFile; fileRef = A657D42E1EF3A45000E05529 /* btn_Setting.png */; };
+		A657D4311EF3A46900E05529 /* btn_Play.png in Resources */ = {isa = PBXBuildFile; fileRef = A657D4301EF3A46900E05529 /* btn_Play.png */; };
+		A657D4331EF3A4CA00E05529 /* btn_Refresh.png in Resources */ = {isa = PBXBuildFile; fileRef = A657D4321EF3A4CA00E05529 /* btn_Refresh.png */; };
+		A657D4391EF3C72900E05529 /* ViewHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = A657D4381EF3C72900E05529 /* ViewHome.swift */; };
+		D3459FAB1EEB27FA00CDB8BD /* SCOREBOARD.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D3459FAA1EEB27FA00CDB8BD /* SCOREBOARD.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		A61787D61EE7BC4C00C6F6EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A61787D91EE7BC4C00C6F6EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A61787DB1EE7BC4C00C6F6EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A61787E71EE7DD8000C6F6EB /* signboard_Caculation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signboard_Caculation.png; sourceTree = "<group>"; };
+		A61787ED1EE7E0C400C6F6EB /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		A63A46381EE801820014C09A /* signboard_Score.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signboard_Score.png; sourceTree = "<group>"; };
+		A63A46391EE801820014C09A /* signboard_Result.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signboard_Result.png; sourceTree = "<group>"; };
+		A657D4201EF3990300E05529 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		A657D4261EF3A0FA00E05529 /* Background_Home.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background_Home.jpg; sourceTree = "<group>"; };
+		A657D42A1EF3A42F00E05529 /* btn_Close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_Close.png; sourceTree = "<group>"; };
+		A657D42C1EF3A44300E05529 /* btn_Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_Info.png; sourceTree = "<group>"; };
+		A657D42E1EF3A45000E05529 /* btn_Setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_Setting.png; sourceTree = "<group>"; };
+		A657D4301EF3A46900E05529 /* btn_Play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_Play.png; sourceTree = "<group>"; };
+		A657D4321EF3A4CA00E05529 /* btn_Refresh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_Refresh.png; sourceTree = "<group>"; };
+		A657D4381EF3C72900E05529 /* ViewHome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewHome.swift; sourceTree = "<group>"; };
+		D3459FAA1EEB27FA00CDB8BD /* SCOREBOARD.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCOREBOARD.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +86,29 @@
 				A61787D61EE7BC4C00C6F6EB /* Assets.xcassets */,
 				A61787D81EE7BC4C00C6F6EB /* LaunchScreen.storyboard */,
 				A61787DB1EE7BC4C00C6F6EB /* Info.plist */,
+				A61787E21EE7DC9800C6F6EB /* Resource */,
+				A657D4381EF3C72900E05529 /* ViewHome.swift */,
 			);
 			path = MathChildren;
+			sourceTree = "<group>";
+		};
+		A61787E21EE7DC9800C6F6EB /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				A657D4321EF3A4CA00E05529 /* btn_Refresh.png */,
+				A657D4301EF3A46900E05529 /* btn_Play.png */,
+				A657D42E1EF3A45000E05529 /* btn_Setting.png */,
+				A657D42C1EF3A44300E05529 /* btn_Info.png */,
+				A657D42A1EF3A42F00E05529 /* btn_Close.png */,
+				A657D4261EF3A0FA00E05529 /* Background_Home.jpg */,
+				A657D4201EF3990300E05529 /* logo.png */,
+				D3459FAA1EEB27FA00CDB8BD /* SCOREBOARD.ttf */,
+				A63A46381EE801820014C09A /* signboard_Score.png */,
+				A63A46391EE801820014C09A /* signboard_Result.png */,
+				A61787ED1EE7E0C400C6F6EB /* Background.jpg */,
+				A61787E71EE7DD8000C6F6EB /* signboard_Caculation.png */,
+			);
+			name = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +143,7 @@
 				TargetAttributes = {
 					A61787CB1EE7BC4C00C6F6EB = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = P3Z8595GF2;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,9 +171,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A657D4271EF3A0FA00E05529 /* Background_Home.jpg in Resources */,
 				A61787DA1EE7BC4C00C6F6EB /* LaunchScreen.storyboard in Resources */,
+				A657D42D1EF3A44300E05529 /* btn_Info.png in Resources */,
+				A61787EE1EE7E0C400C6F6EB /* Background.jpg in Resources */,
+				A657D4211EF3990300E05529 /* logo.png in Resources */,
+				A657D4331EF3A4CA00E05529 /* btn_Refresh.png in Resources */,
+				A63A463A1EE801820014C09A /* signboard_Score.png in Resources */,
+				A657D42B1EF3A42F00E05529 /* btn_Close.png in Resources */,
+				A657D4311EF3A46900E05529 /* btn_Play.png in Resources */,
+				A61787E81EE7DD8000C6F6EB /* signboard_Caculation.png in Resources */,
 				A61787D71EE7BC4C00C6F6EB /* Assets.xcassets in Resources */,
 				A61787D51EE7BC4C00C6F6EB /* Main.storyboard in Resources */,
+				A657D42F1EF3A45000E05529 /* btn_Setting.png in Resources */,
+				A63A463B1EE801820014C09A /* signboard_Result.png in Resources */,
+				D3459FAB1EEB27FA00CDB8BD /* SCOREBOARD.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +198,7 @@
 			files = (
 				A61787D21EE7BC4C00C6F6EB /* ViewController.swift in Sources */,
 				A61787D01EE7BC4C00C6F6EB /* AppDelegate.swift in Sources */,
+				A657D4391EF3C72900E05529 /* ViewHome.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,11 +319,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = P3Z8595GF2;
 				INFOPLIST_FILE = MathChildren/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Tung.MathChildren;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -270,11 +333,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = P3Z8595GF2;
 				INFOPLIST_FILE = MathChildren/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Tung.MathChildren;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -297,6 +362,7 @@
 				A61787E01EE7BC4C00C6F6EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
